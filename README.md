@@ -1,2 +1,2 @@
 # try-it
-i like :football: :swimming: :bicycles:
+i like :football: :swimming_man: :panda_face:
