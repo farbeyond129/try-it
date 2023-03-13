@@ -1,2 +1,2 @@
 # try-it
-i like :football: :fußball:
+i like :football: :swimming: :bicycles:
