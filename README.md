@@ -1,2 +1,3 @@
 # try-it
-i like :football: :swimming_man: :panda_face:
+i don't like :football: :swimming_man: :panda_face:
+happy or not
